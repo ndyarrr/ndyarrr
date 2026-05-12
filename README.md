@@ -72,24 +72,6 @@ $ cat info.txt
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ndyarrr&theme=darkhub&column=7&margin-w=10&no-bg=true&no-frame=false&title_color=00f7ff" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ndyarrr/ndyarrr/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:001aff,100:000000&height=120&section=footer&animation=twinkling" />
 
