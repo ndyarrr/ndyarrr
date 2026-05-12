@@ -77,6 +77,6 @@ $ cat info.txt
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ndyarrr&color=00f7ff&style=flat-square&label=Profile+Views)
 
-**✦ ndyarrr ✦ Fandy Ahmad R ✦ Web Dev ✦ Linux ✦**
+**✦ ndyarrr ✦ Fandy Ahmad R ✦**
 
 </div>
