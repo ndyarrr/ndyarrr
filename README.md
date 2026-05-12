@@ -23,14 +23,14 @@
 
 ```bash
 $ whoami
-> Fandy Ahmad R — Web Developer based on Linux
+> Fandy Ahmad Riyanto — Student of SMKN 1 Boyolangu
 
 $ cat info.txt
-> 🌐 Frontend & Backend Developer
-> 🐧 Daily driving Linux
-> 💡 Love building web stuff from scratch
-> 🔧 Always tinkering, always learning
-> 🚀 Open to collaborations & projects
+> I wish Frontend & Backend Developer
+> I Daily driving Linux
+> Love building web stuff from scratch
+> I Always tinkering, always learning
+> Open to collaborations & projects
 ```
 
 ---
@@ -68,7 +68,7 @@ $ cat info.txt
 ---
 
 <!-- FOOTER -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:001aff,100:000000&height=120&section=footer&animation=twinkling" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ndyarrr&color=00f7ff&style=flat-square&label=Profile+Views)
 
