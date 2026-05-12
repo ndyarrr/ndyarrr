@@ -61,11 +61,6 @@ $ cat info.txt
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=transparent&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&border_color=00f7ff&bg_color=000000&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=transparent&title_color=00f7ff&text_color=ffffff&border_color=00f7ff&bg_color=000000" />
-
-<br/>
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndyarrr&theme=black-ice&background=000000&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&border=00f7ff" />
 
 </div>
@@ -74,8 +69,8 @@ $ cat info.txt
 
 <!-- FOOTER -->
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ndyarrr&color=00f7ff&style=flat-square&label=Profile+Views)
 
-**✦ ndyarrr ✦ Fandy Ahmad R ✦**
 
 </div>
