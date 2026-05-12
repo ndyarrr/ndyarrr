@@ -34,9 +34,4 @@ $ cat about.txt
 
 ## GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&bg_color=000000&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&border_color=00f7ff&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&bg_color=000000&title_color=00f7ff&text_color=ffffff&border_color=00f7ff" />
-
-</div>
+![Stats](https://readme-stats.coderis.in/api?username=ndyarrr&show_icons=true&theme=tokyonight)
