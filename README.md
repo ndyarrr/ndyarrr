@@ -1,76 +1,105 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001aff,100:00f7ff&height=200&section=header&text=ndyarrr&fontSize=80&fontColor=00f7ff&fontAlignY=35&desc=Fandy%20Ahmad%20R&descSize=20&descAlignY=60&descColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FANDY%20AHMAD%20R&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20%2B%20Backend%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Linux+Enthusiast+%F0%9F%90%A7;Frontend+%2B+Backend+Dev;PHP+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+cool+things+on+Linux+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://github.com/ndyarrr">
+  <img src="https://img.shields.io/badge/GITHUB-ndyarrr-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/CONTACT-Email-e91e63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" />
+</a>
+<img src="https://img.shields.io/badge/LOCATION-Tulungagung%2C%20Indonesia-00bcd4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=181717" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F7B801,00E5FF,FF4D8D,6FCF97&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Student+at+SMKN+1+Boyolangu;Frontend+%2B+Backend+Developer;Linux+Daily+Driver+%7C+Arch%2FKDE;Always+tinkering%2C+always+learning)](https://git.io/typing-svg)
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+## Overview
+
+Fandy Ahmad Riyanto, a student at SMKN 1 Boyolangu building web projects end to end — from PHP/Laravel backends to React/Vite frontends — while running Arch Linux with KDE Plasma as a daily driver. Currently working on GadungSense, an IoT monitoring system, and customizing a personal SDDM login theme in QML.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Currently Building
+- **GadungSense** — IoT smart monitoring system (Laravel + MySQL)
+- **roseUI** — custom SDDM login theme (QML/QtQuick)
+
+</td>
+<td width="50%" valign="top">
+
+### Currently Learning
+- React + TypeScript frontend patterns
+- Advanced Laravel API design
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Environment**
+<br/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=FF4D8D&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B801&text_color=c9d1d9" />
 
 <br/>
 
-<!-- BADGES -->
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00f7ff)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00f7ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f7ff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00f7ff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00f7ff)
+<img width="70%" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=radical&hide_border=true&background=0D1117&ring=FF4D8D&fire=F7B801&currStreakLabel=00E5FF" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndyarrr&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF4D8D&point=F7B801" />
 
 </div>
 
----
-
-## ⚡ About Me
-
-```bash
-$ whoami
-> Fandy Ahmad Riyanto — Student of SMKN 1 Boyolangu
-
-$ cat info.txt
-> I wish Frontend & Backend Developer
-> I Daily driving Linux
-> Love building web stuff from scratch
-> I Always tinkering, always learning
-> Open to collaborations & projects
-```
-
----
-
-## 🛠️ Tech Stack
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=00f7ff)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=00f7ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00f7ff)
+<img src="https://komarev.com/ghpvc/?username=ndyarrr&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=00f7ff)
-
-### 🐧 Environment
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=00f7ff)
-![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=00f7ff)
-![VS Code](https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=00f7ff)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=00f7ff)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndyarrr&theme=black-ice&background=000000&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&border=00f7ff" />
-
-</div>
-
----
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:001aff,100:000000&height=120&section=footer&animation=twinkling" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndyarrr&color=00f7ff&style=flat-square&label=Profile+Views)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" />
 
 </div>
