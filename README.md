@@ -32,10 +32,6 @@ $ cat info.txt
 > Open to collaborations & projects
 ```
 
-### Currently Building
-- **GadungSense** — IoT smart monitoring system (Laravel + MySQL)
-- **roseUI** — custom SDDM login theme (QML/QtQuick)
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 ## Tech Stack
