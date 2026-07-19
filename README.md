@@ -20,26 +20,21 @@
 
 ## Overview
 
-Fandy Ahmad Riyanto, a student at SMKN 1 Boyolangu building web projects end to end — from PHP/Laravel backends to React/Vite frontends — while running Arch Linux with KDE Plasma as a daily driver. Currently working on GadungSense, an IoT monitoring system, and customizing a personal SDDM login theme in QML.
+```bash
+$ whoami
+> Fandy Ahmad Riyanto — Student of SMKN 1 Boyolangu
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+$ cat info.txt
+> I wish Frontend & Backend Developer
+> I Daily driving Linux
+> Love building web stuff from scratch
+> I Always tinkering, always learning
+> Open to collaborations & projects
+```
 
 ### Currently Building
 - **GadungSense** — IoT smart monitoring system (Laravel + MySQL)
 - **roseUI** — custom SDDM login theme (QML/QtQuick)
-
-</td>
-<td width="50%" valign="top">
-
-### Currently Learning
-- React + TypeScript frontend patterns
-- Advanced Laravel API design
-
-</td>
-</tr>
-</table>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
