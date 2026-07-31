@@ -70,10 +70,6 @@ $ cat info.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=FF4D8D&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B801&text_color=c9d1d9" />
-
-<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=radical&hide_border=true&background=0D1117&ring=FF4D8D&fire=F7B801&currStreakLabel=00E5FF" />
 
