@@ -12,8 +12,6 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F7B801,00E5FF,FF4D8D,6FCF97&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Student+at+SMKN+1+Boyolangu;Frontend+%2B+Backend+Developer;Linux+Daily+Driver+%7C+Arch%2FKDE;Always+tinkering%2C+always+learning)](https://git.io/typing-svg)
-
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
