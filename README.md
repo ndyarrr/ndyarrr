@@ -3,14 +3,14 @@
 <a href="https://github.com/ndyarrr">
   <img src="https://img.shields.io/badge/GITHUB-ndyarrr-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
-<a href="fandyahmad541@gmail.com">
+<a href="mailto:fandyahmad541@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT-Email-e91e63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" />
 </a>
 <img src="https://img.shields.io/badge/LOCATION-Tulungagung%2C%20Indonesia-00bcd4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=181717" />
 <br/><br/>
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## Overview
 ```bash
@@ -24,7 +24,7 @@ $ cat info.txt
 > Open to collaborations & projects
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## Tech Stack
 
@@ -62,7 +62,7 @@ $ cat info.txt
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## GitHub Stats
 
@@ -72,7 +72,7 @@ $ cat info.txt
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndyarrr&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF4D8D&point=F7B801&cache_seconds=86400" />
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ndyarrr&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
