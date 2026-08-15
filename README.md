@@ -3,7 +3,7 @@
 <a href="https://github.com/ndyarrr">
   <img src="https://img.shields.io/badge/GITHUB-ndyarrr-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="fandyahmad541@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT-Email-e91e63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" />
 </a>
 <img src="https://img.shields.io/badge/LOCATION-Tulungagung%2C%20Indonesia-00bcd4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=181717" />
