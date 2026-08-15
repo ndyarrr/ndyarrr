@@ -46,7 +46,7 @@ $ cat info.txt
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <br/><br/>
 
-**Tools & Environment**
+**Tools & Environment History**
 <br/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Artix_Linux-16182D?style=for-the-badge&logo=artixlinux&logoColor=white" />
