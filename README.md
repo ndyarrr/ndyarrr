@@ -75,8 +75,7 @@ $ cat info.txt
 <div align="center">
 
 <img width="48%" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=radical&hide_border=true&background=0D1117&ring=FF4D8D&fire=F7B801&currStreakLabel=00E5FF" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=8" />
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&langs_count=8&hide=jupyter%20notebook&exclude_repo=" />
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
