@@ -75,7 +75,7 @@ $ cat info.txt
 <div align="center">
 
 <img width="48%" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=radical&hide_border=true&background=0D1117&ring=FF4D8D&fire=F7B801&currStreakLabel=00E5FF" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndyarrr&theme=radical" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pokecu-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
