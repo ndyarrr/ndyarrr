@@ -20,8 +20,6 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
 <td width="55%" valign="top">
 
 **Fandy Ahmad Riyanto**
@@ -48,8 +46,6 @@ status   = "open to collabs"
 ```
 
 </td>
-</tr>
-</table>
 
 ---
 
