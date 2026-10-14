@@ -21,17 +21,18 @@
 <td>
 
 ```text
- fandy@arch ~ $ neofetch
+ fandy@ndyos ~ $ neofetch
 
-        /\            fandy@ndyarrr
-       /  \           ─────────────────────────
-      /    \          OS      : Arch Linux
-     /      \         WM/DE   : KDE Plasma
-    /   ,,   \        Shell   : zsh
-   /   |  |  -\       Editor  : VS Code
-  /_-''    ''-_\      Role    : Frontend + Backend
-                      Home    : Tulungagung, Indonesia
-                      Status  : open to collabs
+           /\              fandy@ndyos
+          /  \             ─────────────────────────
+         / /\ \            OS      : Readme from scratch
+        / /  \ \           Kernel  : readme-github-6.9.0
+       / /    \ \          Shell   : zsh
+       \ \    / /          DE      : Readme DE
+        \ \  / /           Editor  : VS Code
+         \ \/ /            Role    : Frontend + Backend
+          \  /             Home    : Tulungagung, Indonesia
+           \/              Status  : open to collabs
 ```
 
 </td>
