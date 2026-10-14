@@ -1,110 +1,107 @@
 <!-- ═══════════════════════════════════════════════ -->
-<!--                  HEADER / HERO                  -->
+<!--        CATPPUCCIN MOCHA · TERMINAL RICE         -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f5c2e7,50:cba6f7,100:89b4fa&height=120&section=header&text=~%2F%20ndyarrr&fontSize=44&fontColor=1e1e2e&fontAlign=8&fontAlignY=55&desc=fandy%20ahmad%20riyanto%20%C2%B7%20frontend%20%2B%20backend&descSize=16&descAlign=8&descAlignY=80" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Fandy%20Ahmad%20R&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=Frontend%20%7C%20Backend%20Developer&descSize=20&descAlignY=62" />
+```text
+ fandy@arch ~ $ neofetch
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=520&lines=Welcome+to+readme;ga+gentoo+ga+jago+%F0%9F%98%B9;btw+I+use+arch" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ndyarrr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ndyarrr)
-[![Email](https://img.shields.io/badge/Email-fandyahmad541%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fandyahmad541@gmail.com)
-![Location](https://img.shields.io/badge/Tulungagung%2C%20Indonesia-00BCD4?style=flat-square&logo=googlemaps&logoColor=white)
-
-</div>
-
----
-
-## 👋 About Me
-
-<td width="55%" valign="top">
-
-**Fandy Ahmad Riyanto**
-Student of **SMKN 1 Boyolangu**
-
-- 🎯 I wish to be a **Frontend & Backend Developer**
-- 🐧 I daily drive **Linux**
-- 🛠️ Love building web stuff **from scratch**
-- 🔬 Always tinkering, always learning
-- 🤝 Open to **collaborations & projects**
-
-</td>
-<td width="45%" valign="top">
-
-```bash
-$ whoami
-fandy-ahmad-riyanto
-
-$ cat info.txt
-role     = "Frontend + Backend"
-os       = "Linux"
-mindset  = "tinker & learn"
-status   = "open to collabs"
+        /\            fandy@ndyarrr
+       /  \           ─────────────────────────
+      /    \          OS      : Arch Linux
+     /      \         WM/DE   : KDE Plasma
+    /   ,,   \        Shell   : zsh
+   /   |  |  -\       Editor  : VS Code
+  /_-''    ''-_\      Role    : Frontend + Backend (in progress)
+                      Home    : Tulungagung, Indonesia
+                      Status  : tinkering, open to collabs
 ```
 
-</td>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=CBA6F7&vCenter=true&width=480&lines=Welcome+to+my+readme;ga+gentoo+ga+jago+%F0%9F%98%B9;btw+I+use+arch" alt="Typing SVG" />
+</p>
+
+<p>
+  <a href="https://github.com/ndyarrr"><img src="https://img.shields.io/badge/GitHub-ndyarrr-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7" /></a>
+  <a href="mailto:fandyahmad541@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f5c2e7" /></a>
+  <img src="https://img.shields.io/badge/Tulungagung-ID-1e1e2e?style=for-the-badge&logo=googlemaps&logoColor=89b4fa" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## `01` · whoami
 
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
-
-### ⚙️ Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🐧 Tools & Environment History
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Artix Linux](https://img.shields.io/badge/Artix_Linux-16182D?style=flat-square&logo=artixlinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
-![Void](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+| | |
+|:--|:--|
+| 🎯 **Goal** | Frontend & Backend Developer |
+| 🐧 **Daily driver** | Linux, always |
+| 🛠️ **Style** | build web stuff from scratch |
+| 🔬 **Mindset** | tinker, break, fix, learn |
+| 🤝 **Status** | open to collaborations & projects |
 
 ---
 
-## 📊 GitHub Stats
+## `02` · stack
 
-<div align="center">
+| Layer | Tools |
+|:--|:--|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1e1e2e?style=flat-square&logo=css3&logoColor=1572B6) ![JS](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-1e1e2e?style=flat-square&logo=vite&logoColor=B73BFE) |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-1e1e2e?style=flat-square&logo=php&logoColor=777BB4) ![Laravel](https://img.shields.io/badge/-Laravel-1e1e2e?style=flat-square&logo=laravel&logoColor=FF2D20) ![MySQL](https://img.shields.io/badge/-MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/-VS_Code-1e1e2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![Zsh](https://img.shields.io/badge/-Zsh-1e1e2e?style=flat-square&logo=zsh&logoColor=F15A24) ![Bash](https://img.shields.io/badge/-Bash-1e1e2e?style=flat-square&logo=gnubash&logoColor=4EAA25) ![KDE](https://img.shields.io/badge/-KDE_Plasma-1e1e2e?style=flat-square&logo=kde&logoColor=1D99F3) |
 
-<img height="170" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=radical&hide_border=true&background=0D1117&ring=FF4D8D&fire=F7B801&currStreakLabel=00E5FF" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ndyarrr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-I'm open to collaborations and projects. Feel free to reach out!
-
-<div align="center">
-
-[![Email me](https://img.shields.io/badge/Send%20me%20an%20email-fandyahmad541%40gmail.com-e91e63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fandyahmad541@gmail.com)
-
+<details>
+<summary><b>🐧 distro-hopping history</b> (click to expand)</summary>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ndyarrr&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" />
+![Debian](https://img.shields.io/badge/-Debian-1e1e2e?style=flat-square&logo=debian&logoColor=A81D33)
+![Linux Mint](https://img.shields.io/badge/-Mint-1e1e2e?style=flat-square&logo=linuxmint&logoColor=87CF3E)
+![Fedora](https://img.shields.io/badge/-Fedora-1e1e2e?style=flat-square&logo=fedora&logoColor=51A2DA)
+![Void](https://img.shields.io/badge/-Void-1e1e2e?style=flat-square&logo=voidlinux&logoColor=478061)
+![Gentoo](https://img.shields.io/badge/-Gentoo-1e1e2e?style=flat-square&logo=gentoo&logoColor=54487A)
+![Artix](https://img.shields.io/badge/-Artix-1e1e2e?style=flat-square&logo=artixlinux&logoColor=10A0CC)
+![Arch](https://img.shields.io/badge/-Arch-1e1e2e?style=flat-square&logo=arch-linux&logoColor=1793D1)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+</details>
 
-</div>
+---
+
+## `03` · stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
+</p>
+
+<p>
+  <img height="140" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa" />
+</p>
+
+### contribution graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndyarrr&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&area_color=cba6f7&hide_border=true" />
+
+### trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ndyarrr&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+---
+
+## `04` · random quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
+
+---
+
+## `05` · contact
+
+> Got a project, idea, or just want to talk Linux? Hit me up.
+
+<a href="mailto:fandyahmad541@gmail.com"><img src="https://img.shields.io/badge/send%20email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=1e1e2e" /></a>
+<a href="https://github.com/ndyarrr"><img src="https://img.shields.io/badge/follow%20on%20github-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ndyarrr&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,50:cba6f7,100:f5c2e7&height=60&section=footer" />
