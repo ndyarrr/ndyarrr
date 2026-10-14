@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 `developer.c`
+### 💻 `run.c`
 
 ```c
 #include <stdio.h>
@@ -150,5 +150,5 @@ int main(void) {
 <br/>
 
 <p align="center">
-  <sub><code>/* EOF — Designed with Unix minimalism &amp; Catppuccin Mocha */</code></sub>
+  <sub><code>/* Theme - Catppuccin Mocha */</code></sub>
 </p>
