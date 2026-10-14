@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Custom Modern Unix Terminal Header -->
-<a href="https://github.com/ndyarrr">
+<!-- Minimalist Hero Header (Inspired by clean developer portfolio with live blinking cursor) -->
+<a href="mailto:fandyahmad541@gmail.com">
   <img src="assets/header.svg" width="100%" alt="Fandy Ahmad Riyanto Header" />
 </a>
 
@@ -31,18 +31,36 @@
 
 ---
 
-### 💻 `system.profile`
+### 💻 `developer.c`
 
-```bash
-╭─ fandy@archlinux [zsh] ──────────────────────────╮
-│       /\       User   : Fandy Ahmad (ndyarrr)    │
-│      /  \      Role   : Fullstack Web Dev        │
-│     /\   \     Stack  : React · Laravel · MySQL  │
-│    /      \    Kernel : Linux 6.9.0-zen (Arch)   │
-│   /   ,,   \   Tools  : VS Code · Zsh · Git      │
-│  /   |  |  -\  Locale : Tulungagung, ID          │
-│ /_-''    ''-_  Status : Available for hire 🚀    │
-╰──────────────────────────────────────────────────╯
+```c
+#include <stdio.h>
+
+typedef struct {
+    char *name;
+    char *role;
+    char *stack[4];
+    char *kernel;
+    char *location;
+    char *status;
+} Developer;
+
+int main(void) {
+    Developer me = {
+        .name     = "Fandy Ahmad",
+        .role     = "Fullstack Dev",
+        .stack    = {
+            "React", "Vite",
+            "Laravel", "MySQL"
+        },
+        .kernel   = "Linux 6.9.0-zen",
+        .location = "Tulungagung, ID",
+        .status   = "Available 🚀"
+    };
+
+    printf("Open to collabs.\n");
+    return 0;
+}
 ```
 
 ---
