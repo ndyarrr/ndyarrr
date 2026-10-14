@@ -1,143 +1,133 @@
-<!-- ═══════════════════════════════════════════════ -->
-<!--     CATPPUCCIN MOCHA · CENTERED & SYMMETRIC     -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f5c2e7,50:cba6f7,100:89b4fa&height=140&section=header&text=ndyarrr&fontSize=52&fontColor=1e1e2e&fontAlign=50&fontAlignY=42&desc=fandy%20ahmad%20riyanto%20%C2%B7%20frontend%20%2B%20backend&descSize=16&descAlign=50&descAlignY=68" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c2e7,50:cba6f7,100:89b4fa&height=180&section=header&text=ndyarrr&fontSize=52&fontColor=181825&fontAlign=50&fontAlignY=38&desc=Fandy%20Ahmad%20Riyanto%20%7C%20Fullstack%20Developer&descSize=18&descAlign=50&descAlignY=60" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=480&height=30&lines=Welcome+to+my+readme;ga+gentoo+ga+jago+%F0%9F%98%B9;btw+I+use+arch" alt="Typing SVG" />
+<!-- Dynamic Typing SVG -->
+<a href="https://github.com/ndyarrr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&height=35&lines=Frontend+%2B+Backend+Developer;Linux+%26+Open-Source+Enthusiast;btw%2C+I+use+Arch+%F0%9F%90%A7;ga+gentoo+ga+jago+%F0%9F%98%B9;Tinker+%C2%B7+Break+%C2%B7+Fix+%C2%B7+Learn" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://github.com/ndyarrr"><img src="https://img.shields.io/badge/GitHub-ndyarrr-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7" /></a>
-<a href="mailto:fandyahmad541@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f5c2e7" /></a>
-<img src="https://img.shields.io/badge/Tulungagung-ID-1e1e2e?style=for-the-badge&logo=googlemaps&logoColor=89b4fa" />
+<!-- Social Badges -->
+<a href="https://github.com/ndyarrr">
+  <img src="https://img.shields.io/badge/GitHub-ndyarrr-181825?style=flat-square&logo=github&logoColor=cba6f7" alt="GitHub" />
+</a>
+<a href="mailto:fandyahmad541@gmail.com">
+  <img src="https://img.shields.io/badge/Email-contact%20me-181825?style=flat-square&logo=gmail&logoColor=f5c2e7" alt="Email" />
+</a>
+<img src="https://img.shields.io/badge/Location-Tulungagung%2C%20ID-181825?style=flat-square&logo=googlemaps&logoColor=89b4fa" alt="Location" />
 
-<br/><br/>
+</div>
 
-<table align="center">
-<tr>
-<td>
+<br/>
 
-```text
- fandy@ndyos ~ $ neofetch
+---
 
-           /\              fandy@ndyos
-          /  \             ─────────────────────────
-         / /\ \            OS      : Readme from scratch
-        / /  \ \           Kernel  : readme-github-6.9.0
-       / /    \ \          Shell   : zsh
-       \ \    / /          DE      : Readme DE
-        \ \  / /           Editor  : VS Code
-         \ \/ /            Role    : Frontend + Backend
-          \  /             Home    : Tulungagung, Indonesia
-           \/              Status  : open to collabs
+### 💻 `whoami`
+
+```bash
+  fandy@archlinux ~ $ neofetch
+        /\         OS      : Arch Linux x86_64
+       /  \        Kernel  : linux-zen
+      /\   \       Shell   : zsh 5.9
+     /      \      Editor  : VS Code
+    /   ,,   \     Focus   : Fullstack Web Development (React & Laravel)
+   /   |  |  -\    Mindset : Tinker, break, fix, optimize, learn
+  /_-''    ''-_    Home    : Tulungagung, East Java, Indonesia
+                   Status  : Open for collaborations & projects 🚀
 ```
 
-</td>
-</tr>
-</table>
+---
 
+### 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,php,laravel,mysql,arch,linux,bash,git,vscode&perline=7&theme=dark" alt="Tech Stack Icons" />
+  </a>
 </div>
 
 <br/>
-
-<h2 align="center">⟡ whoami ⟡</h2>
-
-<div align="center">
-
-| 🎯 Goal | 🐧 Daily driver | 🛠️ Style | 🔬 Mindset | 🤝 Status |
-|:-:|:-:|:-:|:-:|:-:|
-| Frontend & Backend Dev | Linux, always | build from scratch | tinker, break, fix, learn | open to collabs |
-
-</div>
-
-<br/>
-
-<h2 align="center">⟡ stack ⟡</h2>
-
-<div align="center">
-
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
-
-<br/><br/>
-
-<b>Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" />
-
-<br/><br/>
-
-<b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,arch,kde,bash&theme=dark" />
-
-<br/><br/>
 
 <details>
-<summary><b>🐧 distro-hopping history</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/-Debian-1e1e2e?style=flat-square&logo=debian&logoColor=A81D33" />
-<img src="https://img.shields.io/badge/-Mint-1e1e2e?style=flat-square&logo=linuxmint&logoColor=87CF3E" />
-<img src="https://img.shields.io/badge/-Fedora-1e1e2e?style=flat-square&logo=fedora&logoColor=51A2DA" />
-<img src="https://img.shields.io/badge/-Void-1e1e2e?style=flat-square&logo=voidlinux&logoColor=478061" />
-<img src="https://img.shields.io/badge/-Gentoo-1e1e2e?style=flat-square&logo=gentoo&logoColor=54487A" />
-<img src="https://img.shields.io/badge/-Artix-1e1e2e?style=flat-square&logo=artixlinux&logoColor=10A0CC" />
-<img src="https://img.shields.io/badge/-Arch-1e1e2e?style=flat-square&logo=arch-linux&logoColor=1793D1" />
-
+  <summary align="center"><b>🐧 Distro-hopping History</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Debian-181825?style=flat-square&logo=debian&logoColor=A81D33" alt="Debian" />
+    <img src="https://img.shields.io/badge/Mint-181825?style=flat-square&logo=linuxmint&logoColor=87CF3E" alt="Linux Mint" />
+    <img src="https://img.shields.io/badge/Fedora-181825?style=flat-square&logo=fedora&logoColor=51A2DA" alt="Fedora" />
+    <img src="https://img.shields.io/badge/Void-181825?style=flat-square&logo=voidlinux&logoColor=478061" alt="Void Linux" />
+    <img src="https://img.shields.io/badge/Gentoo-181825?style=flat-square&logo=gentoo&logoColor=cba6f7" alt="Gentoo" />
+    <img src="https://img.shields.io/badge/Artix-181825?style=flat-square&logo=artixlinux&logoColor=10A0CC" alt="Artix" />
+    <img src="https://img.shields.io/badge/Arch_Linux-181825?style=flat-square&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
+  </div>
 </details>
 
+<br/>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndyarrr/ndyarrr/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndyarrr/ndyarrr/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ndyarrr/ndyarrr/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
-<h2 align="center">⟡ stats ⟡</h2>
+---
 
-<table align="center">
-<tr>
-<td align="center" valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&card_width=400" width="100%" />
-</td>
-<td align="center" valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&card_width=400" width="100%" />
-</td>
-</tr>
-</table>
+### 📊 GitHub Metrics
 
 <div align="center">
-
-<img height="150" src="https://streak-stats.demolab.com/?user=ndyarrr&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa" />
-
+  <a href="https://github.com/ndyarrr">
+    <img src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ndyarrr">
+    <img src="https://streak-stats.demolab.com/?user=ndyarrr&theme=catppuccin-mocha&hide_border=true&background=181825&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa" height="150" alt="Streak Stats" />
+  </a>
 </div>
 
 <br/>
 
-<h2 align="center">⟡ random quote ⟡</h2>
-
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
-
+  <a href="https://github.com/ndyarrr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4" height="142" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
-<h2 align="center">⟡ contact ⟡</h2>
+---
 
 <div align="center">
 
-<i>Got a project, idea, or just want to talk Linux? Hit me up.</i>
+> *"Simplicity is prerequisite for reliability."* — **Edsger W. Dijkstra**
+
+<br/>
+
+<!-- Connect Buttons -->
+<a href="mailto:fandyahmad541@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=181825" alt="Send Email" />
+</a>
+&nbsp;
+<a href="https://github.com/ndyarrr">
+  <img src="https://img.shields.io/badge/Follow%20GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=181825" alt="Follow GitHub" />
+</a>
 
 <br/><br/>
 
-<a href="mailto:fandyahmad541@gmail.com"><img src="https://img.shields.io/badge/send%20email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=1e1e2e" /></a>
-<a href="https://github.com/ndyarrr"><img src="https://img.shields.io/badge/follow%20on%20github-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e" /></a>
+<img src="https://komarev.com/ghpvc/?username=ndyarrr&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ndyarrr&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,50:cba6f7,100:f5c2e7&height=60&section=footer" />
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:cba6f7,100:f5c2e7&height=90&section=footer" alt="Footer Wave" />
 
 </div>
