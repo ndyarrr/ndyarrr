@@ -9,7 +9,7 @@
 
 <!-- Dynamic Typing Subheading -->
 <a href="https://github.com/ndyarrr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=560&height=35&lines=Fullstack+Developer+%C2%B7+Frontend+%26+Backend;Architecting+clean+web+apps+with+React+%26+Laravel;Linux+environment+%C2%B7+Streamlined+developer+workflows;Crafting+scalable%2C+maintainable+%26+performant+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=420&height=35&lines=Fullstack+Web+Developer;React+%C2%B7+Vite+%C2%B7+Laravel+%C2%B7+MySQL;Linux+%26+Unix+Daily+Driver;Building+Clean+%26+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,18 +34,15 @@
 ### 💻 `system.profile`
 
 ```bash
-╭─ fandy@archlinux ~ [zsh] ──────────────────────────────────────────╮
-│                                                                    │
-│         /\         User     : Fandy Ahmad Riyanto (ndyarrr)        │
-│        /  \        Role     : Fullstack Web Developer              │
-│       /\   \       Core     : React · Vite · PHP · Laravel · MySQL │
-│      /      \      Platform : Linux x86_64 (Arch / Zen Kernel)     │
-│     /   ,,   \     Tooling  : VS Code · Neovim · Zsh · Git         │
-│    /   |  |  -\    Focus    : Clean Architecture & Performant Web  │
-│   /_-''    ''-_    Location : Tulungagung, East Java, Indonesia    │
-│                    Status   : Available for projects & collabs 🚀  │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
+╭─ fandy@archlinux [zsh] ──────────────────────────╮
+│       /\       User   : Fandy Ahmad (ndyarrr)    │
+│      /  \      Role   : Fullstack Web Dev        │
+│     /\   \     Stack  : React · Laravel · MySQL  │
+│    /      \    Kernel : Linux 6.9.0-zen (Arch)   │
+│   /   ,,   \   Tools  : VS Code · Zsh · Git      │
+│  /   |  |  -\  Locale : Tulungagung, ID          │
+│ /_-''    ''-_  Status : Available for hire 🚀    │
+╰──────────────────────────────────────────────────╯
 ```
 
 ---
@@ -82,18 +79,15 @@
 
 <div align="center">
   <a href="https://github.com/ndyarrr">
-    <img src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ndyarrr&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" alt="GitHub Stats" />
   </a>
+  <br/><br/>
   <a href="https://github.com/ndyarrr">
-    <img src="https://streak-stats.demolab.com/?user=ndyarrr&theme=catppuccin-mocha&hide_border=true&background=181825&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa" height="150" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=ndyarrr&theme=catppuccin-mocha&hide_border=true&background=181825&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa" alt="Streak Stats" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <a href="https://github.com/ndyarrr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4" height="142" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyarrr&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages" />
   </a>
 </div>
 
