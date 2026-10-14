@@ -127,7 +127,9 @@ int main(void) {
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ndyarrr&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://hits.sh/github.com/ndyarrr/">
+  <img src="https://hits.sh/github.com/ndyarrr.svg?style=flat-square&label=PROFILE+VIEWS&color=cba6f7&labelColor=181825&extraCount=338" alt="Profile Views" />
+</a>
 
 </div>
 
