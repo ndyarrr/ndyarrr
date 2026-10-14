@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
+      .term-text { font-family: 'JetBrains Mono', monospace, -apple-system, BlinkMacSystemFont; }
+      .cursor { animation: blink 1s step-start infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#cba6f7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#89b4fa" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Window Container -->
+  <rect x="1" y="1" width="848" height="198" rx="8" fill="#181825" stroke="#313244" stroke-width="1.5" />
+  <rect x="1" y="1" width="848" height="198" rx="8" fill="url(#glow)" />
+
+  <!-- Titlebar -->
+  <line x1="1" y1="38" x2="849" y2="38" stroke="#313244" stroke-width="1.5" />
+  
+  <!-- Window Controls -->
+  <circle cx="24" cy="19" r="6" fill="#f38ba8" />
+  <circle cx="44" cy="19" r="6" fill="#f9e2af" />
+  <circle cx="64" cy="19" r="6" fill="#a6e3a1" />
+
+  <!-- Titlebar Title -->
+  <text x="425" y="24" class="term-text" font-size="12" fill="#a6adc8" text-anchor="middle" font-weight="500">fandy@archlinux: ~/dev/ndyarrr (zsh)</text>
+  <text x="825" y="24" class="term-text" font-size="11" fill="#6c7086" text-anchor="end">utf-8 [unix]</text>
+
+  <!-- Prompt -->
+  <text x="28" y="72" class="term-text" font-size="14" fill="#a6e3a1" font-weight="700">❯</text>
+  <text x="46" y="72" class="term-text" font-size="14" fill="#89b4fa" font-weight="500">~/ndyarrr</text>
+  <text x="135" y="72" class="term-text" font-size="14" fill="#a6adc8">on</text>
+  <text x="160" y="72" class="term-text" font-size="14" fill="#cba6f7" font-weight="500"> main</text>
+  <text x="225" y="72" class="term-text" font-size="14" fill="#f5c2e7" font-weight="700">❯</text>
+  <text x="245" y="72" class="term-text" font-size="14" fill="#cdd6f4" font-weight="500">whoami</text>
+  <rect x="306" y="58" width="8" height="16" fill="#cba6f7" class="cursor" />
+
+  <!-- Identity Heading -->
+  <text x="28" y="112" class="term-text" font-size="26" fill="#cdd6f4" font-weight="700" letter-spacing="1">FANDY AHMAD RIYANTO</text>
+  <text x="28" y="136" class="term-text" font-size="13" fill="#a6adc8">Fullstack Developer  ·  Modern Web Architecture  ·  Tulungagung, ID</text>
+
+  <!-- Tmux / Neovim Statusline Bar -->
+  <rect x="16" y="160" width="818" height="26" rx="4" fill="#11111b" stroke="#313244" stroke-width="1" />
+  
+  <!-- Statusline Segments -->
+  <rect x="16" y="160" width="84" height="26" rx="4" fill="#cba6f7" />
+  <text x="58" y="177" class="term-text" font-size="11" font-weight="700" fill="#11111b" text-anchor="middle">NORMAL</text>
+  
+  <text x="115" y="177" class="term-text" font-size="11" fill="#89b4fa" font-weight="500"> main</text>
+  <text x="180" y="177" class="term-text" font-size="11" fill="#585b70">│</text>
+  <text x="200" y="177" class="term-text" font-size="11" fill="#a6e3a1">React 18</text>
+  <text x="270" y="177" class="term-text" font-size="11" fill="#585b70">·</text>
+  <text x="285" y="177" class="term-text" font-size="11" fill="#f5c2e7">Laravel</text>
+  <text x="345" y="177" class="term-text" font-size="11" fill="#585b70">·</text>
+  <text x="360" y="177" class="term-text" font-size="11" fill="#f9e2af">MySQL</text>
+  
+  <text x="818" y="177" class="term-text" font-size="11" fill="#a6adc8" text-anchor="end">status: open to work 🚀</text>
+</svg>
