@@ -9,7 +9,7 @@
 
 <!-- Dynamic Typing Subheading -->
 <a href="https://github.com/ndyarrr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=420&height=35&lines=Fullstack+Web+Developer;React+%C2%B7+Vite+%C2%B7+Laravel+%C2%B7+MySQL;Linux+%26+Unix+Daily+Driver;Building+Clean+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=420&height=35&lines=Fullstack+Web+Developer;React+%C2%B7+Vite+%C2%B7+Laravel+%C2%B7+MySQL;Linux+%26+Daily+Driver;Building+Clean+%26+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
